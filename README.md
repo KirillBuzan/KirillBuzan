@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🚧 **Мои задачи на ближайшее время:**
+<!-- TODO-IST:START -->
+* [x] Прокачать свой профиль на Github
+* [ ] Выбрать для себя GitHub или GitLab      
+<!-- TODO-IST:END -->
